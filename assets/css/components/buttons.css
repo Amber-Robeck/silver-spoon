@@ -1,0 +1,9 @@
+.btn-round {
+    border: .2rem solid lightslategray;
+    border-radius: 3rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    text-decoration: none;
+    color: black;
+    background-color: rgb(155, 160, 165);
+}
